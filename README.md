@@ -39,13 +39,13 @@
 Clone Projek
 
 ```bash
-  git clone https://github.com/abdulaziz-m5u/toko-online-laravel.git nama_projek
+  git clone https://github.com/abdulaziz-m5u/toko-online-laravel.git toko-online
 ```
 
 Masuk ke folder dengan perintah
 
 ```bash
-  cd nama_projek
+  cd toko-online
 ```
 
 -   Copy .env.example menjadi .env kemudia edit database dan api key nya
