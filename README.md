@@ -24,7 +24,7 @@
 ![alt text](https://github.com/Ichsan47/iksan_technovation_toko-online/blob/main/tampilan_payment.jpg?raw=true)
 
 
-# Untuk Tampilan itu sendiri bisa diakses dengan cara login sebagai admin dan mengganti url menjadi http://127.0.0.1:8000/aadmin/dashboard
+## Untuk Tampilan itu sendiri bisa diakses dengan cara login sebagai admin dan mengganti url menjadi http://127.0.0.1:8000/aadmin/dashboard
 ## Tampilan menu admin
 ![alt text](https://github.com/Ichsan47/iksan_technovation_toko-online/blob/main/halaman_admin.jpg?raw=true)
 
