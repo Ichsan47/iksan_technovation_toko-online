@@ -8,10 +8,10 @@
 ![alt text](https://github.com/Ichsan47/iksan_technovation_toko-online/blob/main/pilih_produk.jpg?raw=true)
 
 ### Di halaman ini akan tampil beberapa pilihan produk berdasarkan beberapa kategori yang telah disediakan. Pengguna bisa memilih peoduk mana yang diinginkan dengan menekan icon keranjang yang akan tampil jika kursor diarahkan ke gambar produk yang diinginkan. Setelah memilih barang yang diinginkan nanti akan muncul pesan bahwa pesanan telah ditambahkan dan akan masuk ke dalam keranjang.
-##Klik icon keranjang
+## Klik icon keranjang
 ![alt text](https://github.com/Ichsan47/iksan_technovation_toko-online/blob/main/klik_keranjang.jpg?raw=true)
 
-##Tampilan keranjang untuk menentukan jumlah dari barang yang ingin dibeli kemudian klik tombol "Proceed To Checkout" untuk beralih ke halaman pemilhan pengiriman
+## Tampilan keranjang untuk menentukan jumlah dari barang yang ingin dibeli kemudian klik tombol "Proceed To Checkout" untuk beralih ke halaman pemilhan pengiriman
 ![alt text](https://github.com/Ichsan47/iksan_technovation_toko-online/blob/main/bayar_produk.jpg?raw=true)
 
 ## Kemudian isi data pengiriman seperti nama, alamat, provinsi, kota dan kode pos serta nomor telepon untuk detail pengiriman. Kemudian pilih jasa pengiriman untuk yang akan secara otomatis menambahkan jumlah ongkir sesuai dengan jenis pengiriman yang di pilih. Lalu klik tombol "Place Order" untuk melakukan pembayaran.
