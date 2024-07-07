@@ -30,3 +30,43 @@
 
 ### Pada bagian halaman admin kita bisa melihat daftar user dan admin. kemudian ada menu Manajemen Produk untuk melakukan penambahan kategori produk, atribut produk, dan jenis produk itu sendiri. 
 ### Kemudian ada menu Manajemen Order untuk melihat dan mengelola data pesanan dan yang terakhir menu Manajemen Report untuk melihat data laporan seperti keuangan dan lain-lain.
+
+##
+##
+
+# Cara Instalasi
+
+Clone Projek
+
+```bash
+  git clone https://github.com/abdulaziz-m5u/toko-online-laravel.git nama_projek
+```
+
+Masuk ke folder dengan perintah
+
+```bash
+  cd nama_projek
+```
+
+-   Copy .env.example menjadi .env kemudia edit database dan api key nya
+
+```bash
+    composer install
+```
+
+```bash
+    php artisan key:generate
+```
+
+```bash
+    php artisan artisan migrate:fresh --seed
+```
+
+```bash
+    php artisan storage:link
+```
+
+#### Login
+
+-   email = admin@admin.com
+-   password = 123
